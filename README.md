@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghd7673)](https://solved.ac/ghd7673)
 
-# Skills
+# ⚡Skills
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white)
 ![AmazonAWS](https://img.shields.io/badge/AmazonAWS-232F3E.svg?&style=for-the-badge&logo=AmazonAWS&logoColor=white)
 
-# Contacts
+# 💬Contacts
 [![Blogger](http://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=Blogger&link=https://https://scarelt.tistory.com/)](https://scarelt.tistory.com/)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:ghd7673@naver.com)](mailto:ghd7673@naver.com)
 
