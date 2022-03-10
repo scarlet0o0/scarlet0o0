@@ -29,4 +29,5 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white)
+![aws](https://img.shields.io/badge/aws-232F3E.svg?&style=for-the-badge&logo=aws&logoColor=white)
 
