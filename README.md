@@ -31,5 +31,6 @@ Here are some ideas to get you started:
 ![AmazonAWS](https://img.shields.io/badge/AmazonAWS-232F3E.svg?&style=for-the-badge&logo=AmazonAWS&logoColor=white)
 
 # Contacts
+[![Blogger](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://https://scarelt.tistory.com/)](https://scarelt.tistory.com/)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:ghd7673@naver.com)](mailto:ghd7673@naver.com)
 
