@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scarlet0o0&show_icons=tru)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghd7673)](https://solved.ac/ghd7673)
+
 
 # ⚡Skills
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
@@ -29,6 +31,7 @@ Here are some ideas to get you started:
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=white)
 ![AmazonAWS](https://img.shields.io/badge/AmazonAWS-232F3E.svg?&style=for-the-badge&logo=AmazonAWS&logoColor=white)
+
 
 # 💬Contacts
 [![Blogger](http://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=Blogger&logoColor=white&link=https://https://scarelt.tistory.com/)](https://scarelt.tistory.com/)
