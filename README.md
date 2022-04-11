@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align='center'>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scarlet0o0&show_icons=tru)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac
@@ -36,4 +37,5 @@ Here are some ideas to get you started:
 # 💬Contacts
 [![Blogger](http://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=Blogger&logoColor=white&link=https://https://scarelt.tistory.com/)](https://scarelt.tistory.com/)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:ghd7673@naver.com)](mailto:ghd7673@naver.com)
-
+	
+</div>
