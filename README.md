@@ -1,22 +1,10 @@
 # 😄
 
-<!--
-**scarlet0o0/scarlet0o0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scarlet0o0&show_icons=tru)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
@@ -26,6 +14,8 @@ Here are some ideas to get you started:
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566995514/noticon/jufppyr8htislboas4ve.png" width="100px" height="100px">
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566912109/noticon/puksfce6wca36hes1vom.png" width="100px" height="100px">
 <img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1570946287/noticon/qgdiv5ctkcneujidjuv1.png" width="100px" height="100px">
+
+
 
 
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
