@@ -12,6 +12,11 @@
 <br>
 <br>
 	
+## -Backend-
+<img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566778017/noticon/ytjm1rralodyhvuggrpu.png" width="80px" height="80px" style="margin:10px;"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1583139874/noticon/dri6ny863om8qxtics4i.png" width="80px" height="80px" style="margin:10px;"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913591/noticon/e2bd9zw78n6zw6his4bd.png" width="80px" height="80px" style="margin:10px;"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566777755/noticon/yfmwxv8nhnr5aqaxhxpg.png" width="80px" height="80px" style="margin:10px;"><img src="https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913282/noticon/xyzfawahazvkwiyje7it.png" width="70px" height="70px" style="margin:10px;">
+<br>
+<br>
+	
 </div>
 
 
