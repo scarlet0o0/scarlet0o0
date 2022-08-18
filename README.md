@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 
 ## language
-![Java](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913897/noticon/xbvewg1m3azbpnrzck1k.png){: width="100" height="100"}
+![Java](https://noticon-static.tammolo.com/dgggcrkxq/image/upload/v1566913897/noticon/xbvewg1m3azbpnrzck1k.png){: width="100px" height="100px"}
 
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
@@ -37,4 +37,4 @@ Here are some ideas to get you started:
 # 💬Contacts
 [![Blogger](http://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=Blogger&logoColor=white&link=https://https://scarelt.tistory.com/)](https://scarelt.tistory.com/)
 	
-</div>
+
