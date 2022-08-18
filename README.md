@@ -18,11 +18,5 @@
 <br>
 	
 </div>
-
-
-
-
-# 💬Contacts
-[![Blogger](http://img.shields.io/badge/Blogger-FF5722?style=flat-square&logo=Blogger&logoColor=white&link=https://https://scarelt.tistory.com/)](https://scarelt.tistory.com/)
 	
 
